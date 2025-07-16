@@ -9,5 +9,5 @@ This repository contains the codebase for the paper and [database](https://doi.o
 The workflow is as follows:
 
 1. The records are extracted with [record_extraction_polaris.py](/record_extraction_polaris.py) using the models in [CustomModels.py](/CustomModels.py)
-2. The extracted records are scrubbed of records containing values with negative Kelvin using [negative_kevlin_data_cleaning.py](/negative_kevlin_data_cleaning.py)
+2. The extracted records are scrubbed of records containing values with negative Kelvin using [negative_kelvin_data_cleaning.py](/negative_kelvin_data_cleaning.py)
 3. The records are consolidated into a single .json and .csv database using [consolidate_json_db.py](/consolidate_json_db.py)
