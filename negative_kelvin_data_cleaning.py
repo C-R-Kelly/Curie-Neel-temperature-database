@@ -1,8 +1,8 @@
 import json
 from os import listdir
 from os.path import isdir, join, exists
-from CDE_Model.cdedatabase import CDEDatabase, JSONCoder, MongoCoder
-from CDE_Model.CustomModels import CurieTemperature, NeelTemperature
+from cdedatabase import CDEDatabase, JSONCoder, MongoCoder
+from CustomModels import CurieTemperature, NeelTemperature
 
 write_separate_file = False
 delete_negative_records = True
