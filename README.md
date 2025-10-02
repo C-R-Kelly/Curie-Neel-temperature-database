@@ -11,7 +11,7 @@ A database of Curie and Néel temperatures auto-generated with ChemDataExtractor
 
 Scientific Data
 
-
+# Usage
 The workflow is as follows:
 
 1. The records are extracted with [record_extraction_polaris.py](/record_extraction_polaris.py) using the models in [CustomModels.py](/CustomModels.py)
