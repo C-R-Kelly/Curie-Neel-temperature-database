@@ -13,9 +13,7 @@ The workflow is as follows:
 
 # Acknowledgements
 
-J.M.C. conceived the overarching project. The study was designed by S.G.J. and J.M.C. S.G.J. created the workflow, designed the CNN architecture, performed data pre-processing, featurization, hyperparameter optimization, and analysed the data under the supervision of J.M.C. G.J. assisted with the design of the CNN architecture and contributed to the hyperparameter optimization. S.G.J. drafted the manuscript with the assistance from J.M.C. The final manuscript was read and approved by all authors.
-
-J.M.C. is grateful for the BASF/Royal Academy of Engineering Research Chair in Data-Driven Molecular Engineering of Functional Materials, which is partly sponsored by the Science and Technology Facilities Council (STFC) via the ISIS Neutron and Muon Source; this Chair also supports a PhD studentship (for S.G.J.). STFC is also thanked for a PhD studentship that is sponsored by its Scientific Computing Department (for G.J.).
+J.M.C. is grateful for the BASF/Royal Academy of Engineering Research Chair in Data-Driven Molecular Engineering of Functional Materials, which is partly supported by the STFC via the ISIS Neutron and Muon Source. J.M.C. also acknowledges QinetiQ for project support via an EPSRC ICASE award (voucher 210153) for PhD funding (for C.R.K.). The authors thank Qingyang Dong from the Molecular Engineering group at the Cavendish Laboratory, University of Cambridge, for his assistance in updating Snowball v2 so that it could be used with the version of ChemDataExtractor presented herein. The authors are indebted to the Argonne Leadership Computing Facility, which is a DOE Office of Science Facility, for use of its research resources, under contract No. DE-AC02-06CH11357.
 
 # Citation
 ```
