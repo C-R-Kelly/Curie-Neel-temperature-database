@@ -19,12 +19,12 @@ J.M.C. is grateful for the BASF/Royal Academy of Engineering Research Chair in D
 
 # Citation
 @article{huang2020database,  
-  title={A database of battery materials auto-generated using ChemDataExtractor},  
-  author={Huang, Shu and Cole, Jacqueline M},  
+  title={A database of Curie and Néel temperatures auto-generated with ChemDataExtractor and the Snowball algorithm},  
+  author={Kelly, Charles R and Cole, Jacqueline M},  
   journal={Scientific Data},  
-  volume={7},  
-  number={1},  
-  pages={1--13},  
-  year={2020},  
+  volume={},  
+  number={},  
+  pages={},  
+  year={},  
   publisher={Nature Publishing Group}  
 }
