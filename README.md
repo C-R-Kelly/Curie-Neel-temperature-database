@@ -6,10 +6,10 @@ By C. R. Kelly & J. M. Cole
 
 # Usage
 The workflow is as follows:
-
-1. The records are extracted with [record_extraction_polaris.py](/record_extraction_polaris.py) using the models in [CustomModels.py](/CustomModels.py)
-2. The extracted records are scrubbed of records containing values with negative Kelvin using [negative_kelvin_data_cleaning.py](/negative_kelvin_data_cleaning.py)
-3. The records are consolidated into a single .json and .csv dataset using [consolidate_json_ds.py](/consolidate_json_ds.py)
+1. The articles were scraped using the scraper scripts in [scrapers](/source/scrapers)
+2. The records are extracted with [record_extraction_polaris.py](/source/record_extraction_polaris.py) using the models in [CustomModels.py](/source/CustomModels.py)
+3. The extracted records are scrubbed of records containing values with negative Kelvin using [negative_kelvin_data_cleaning.py](/source/negative_kelvin_data_cleaning.py)
+4. The records are consolidated into a single .json and .csv dataset using [consolidate_json_ds.py](/source/consolidate_json_ds.py)
 
 # Acknowledgements
 
