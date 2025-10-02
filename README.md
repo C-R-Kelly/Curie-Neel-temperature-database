@@ -4,13 +4,6 @@ This repository contains the codebase for the paper and [database](https://doi.o
 
 By C. R. Kelly & J. M. Cole
 
-## Citation
-C. R. Kelly & J. M. Cole
-
-A database of Curie and Néel temperatures auto-generated with ChemDataExtractor and the Snowball algorithm 
-
-Scientific Data
-
 # Usage
 The workflow is as follows:
 
@@ -23,3 +16,15 @@ The workflow is as follows:
 J.M.C. conceived the overarching project. The study was designed by S.G.J. and J.M.C. S.G.J. created the workflow, designed the CNN architecture, performed data pre-processing, featurization, hyperparameter optimization, and analysed the data under the supervision of J.M.C. G.J. assisted with the design of the CNN architecture and contributed to the hyperparameter optimization. S.G.J. drafted the manuscript with the assistance from J.M.C. The final manuscript was read and approved by all authors.
 
 J.M.C. is grateful for the BASF/Royal Academy of Engineering Research Chair in Data-Driven Molecular Engineering of Functional Materials, which is partly sponsored by the Science and Technology Facilities Council (STFC) via the ISIS Neutron and Muon Source; this Chair also supports a PhD studentship (for S.G.J.). STFC is also thanked for a PhD studentship that is sponsored by its Scientific Computing Department (for G.J.).
+
+# Citation
+@article{huang2020database,
+  title={A database of battery materials auto-generated using ChemDataExtractor},
+  author={Huang, Shu and Cole, Jacqueline M},
+  journal={Scientific Data},
+  volume={7},
+  number={1},
+  pages={1--13},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
