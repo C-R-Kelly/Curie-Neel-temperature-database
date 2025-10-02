@@ -4,6 +4,14 @@ This repository contains the codebase for the paper and [database](https://doi.o
 
 By C. R. Kelly & J. M. Cole
 
+## Citation
+C. R. Kelly & J. M. Cole
+
+A database of Curie and Néel temperatures auto-generated with ChemDataExtractor and the Snowball algorithm 
+
+Scientific Data
+
+
 The workflow is as follows:
 
 1. The records are extracted with [record_extraction_polaris.py](/record_extraction_polaris.py) using the models in [CustomModels.py](/CustomModels.py)
