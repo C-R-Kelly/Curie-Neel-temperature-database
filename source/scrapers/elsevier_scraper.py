@@ -2,7 +2,7 @@
 """
 elsevier_scraper.py
 Scraper for the Elsevier webpages using the Elsevier developer API
-by Callum Court
+by Callum Court (https://github.com/cjcourt)
 
 """
 import requests
