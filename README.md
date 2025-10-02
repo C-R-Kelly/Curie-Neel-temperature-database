@@ -18,13 +18,13 @@ J.M.C. conceived the overarching project. The study was designed by S.G.J. and J
 J.M.C. is grateful for the BASF/Royal Academy of Engineering Research Chair in Data-Driven Molecular Engineering of Functional Materials, which is partly sponsored by the Science and Technology Facilities Council (STFC) via the ISIS Neutron and Muon Source; this Chair also supports a PhD studentship (for S.G.J.). STFC is also thanked for a PhD studentship that is sponsored by its Scientific Computing Department (for G.J.).
 
 # Citation
-@article{huang2020database,
-  title={A database of battery materials auto-generated using ChemDataExtractor},
-  author={Huang, Shu and Cole, Jacqueline M},
-  journal={Scientific Data},
-  volume={7},
-  number={1},
-  pages={1--13},
-  year={2020},
-  publisher={Nature Publishing Group}
+@article{huang2020database,  
+  title={A database of battery materials auto-generated using ChemDataExtractor},  
+  author={Huang, Shu and Cole, Jacqueline M},  
+  journal={Scientific Data},  
+  volume={7},  
+  number={1},  
+  pages={1--13},  
+  year={2020},  
+  publisher={Nature Publishing Group}  
 }
