@@ -6,8 +6,9 @@ from os.path import join, splitext, exists
 from os import listdir
 import json
 
-data_dir = r'E:\Programming\onedrive backup\Cambridge\Pycharm\Projects\PhD\CDE_Model\Scraped Data\Curie Database v1\Curie Database\entire corpus\data'
-failed_dois = r'C:\PycharmProjects\PhD\CDE_Model\consolidate_json_db\failed_dois.txt'
+data_dir = r''
+failed_dois = r''
+output_directory = r''
 
 loop_limit = 10
 url_prefix = 'https://doi.org/'
@@ -23,7 +24,7 @@ def get_dois():
         if article.endswith('.xml') or article.endswith('.html'):
             dir = splitext(article)[0]
             output_path = join(
-                r'E:\Programming\output_data_processed',
+                output_directory,
                 dir)
             output_path_file = join(output_path, 'doi.txt')
             if exists(output_path) and len(listdir(output_path)) > 0:

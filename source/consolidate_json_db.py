@@ -4,13 +4,11 @@ import os
 
 sys.path.append(os.getcwd())
 
-parent_json = r'E:\Programming\output_data_processed\curie_neel_database_data_processed.json'
-parent_csv = r'E:\Programming\output_data_processed\curie_neel_database_processed.csv'
-output_dir = r'E:\Programming\output_data_processed'
+parent_json = r''
+parent_csv = r''
+output_dir = r''
 
-# parent_json = r'C:\PycharmProjects\PhD\CDE_Model\consolidate_json_db\curie_neel_database_data_cleaned.json'
-# parent_csv = r'C:\PycharmProjects\PhD\CDE_Model\consolidate_json_db\curie_neel_database_data_cleaned.csv'
-# output_dir = r'C:\PycharmProjects\PhD\CDE_Model\consolidate_json_db'
+
 
 export_to_json = True
 export_to_csv = True
